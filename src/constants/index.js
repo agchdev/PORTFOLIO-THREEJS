@@ -36,7 +36,8 @@ import {
     threads,
     typescript,
     ana,
-    goiko
+    goiko,
+    dunkin
 } from "../assets/icons";
 
 export const skills = [
@@ -260,6 +261,20 @@ export const projects = [
         link: 'https://agchdev.github.io/Goiko.github.io/'
     },
     {
+        iconUrl: dunkin,
+        theme: 'btn-back-pink',
+        name: 'DUNKIN DONUTS',
+        description: 'A free replication of GOIKO for beginners to improve her skills!',
+        link: 'https://agchdev.github.io/DUNKIN.github.io/',
+    },
+    {
+        iconUrl: FIVE,
+        theme: 'btn-back-blue',
+        name: 'FIVE WEB',
+        description: 'Designed and built a mobile app for finding and comparing cars on the market, streamlining the car-buying process.',
+        link: 'https://www.instagram.com/agch.obj/',
+    },
+    {
         iconUrl: TWITCH,
         theme: 'btn-back-pink',
         name: 'TWICTH WORK´S',
@@ -271,13 +286,6 @@ export const projects = [
         theme: 'btn-back-green',
         name: 'MUSIC VIDEOCLIPS',
         description: 'Created a full-stack replica of the popular discussion platform "Threads," enabling users to post and engage in threaded conversations.',
-        link: 'https://www.instagram.com/agch.obj/',
-    },
-    {
-        iconUrl: FIVE,
-        theme: 'btn-back-blue',
-        name: 'FIVE WEB',
-        description: 'Designed and built a mobile app for finding and comparing cars on the market, streamlining the car-buying process.',
         link: 'https://www.instagram.com/agch.obj/',
     },
     {

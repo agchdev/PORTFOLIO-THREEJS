@@ -42,6 +42,7 @@ import F1 from './F1.svg'
 import windows from './windows.png'
 import ana from './ana.png'
 import goiko from './goiko.png'
+import dunkin from './dunkin.png'
 
 
 export {
@@ -88,5 +89,6 @@ export {
     soundoff,
     windows,
     ana,
-    goiko
+    goiko,
+    dunkin
 }
