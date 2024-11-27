@@ -39,6 +39,9 @@ import FIVE from './FIVE.png'
 import TWITCH from './TWITCH.png'
 import BLENDERWHITE from './BLENDERWHITE.svg'
 import F1 from './F1.svg'
+import windows from './windows.png'
+import ana from './ana.png'
+import goiko from './goiko.png'
 
 
 export {
@@ -82,5 +85,8 @@ export {
     arrow,
     contact,
     soundon,
-    soundoff
+    soundoff,
+    windows,
+    ana,
+    goiko
 }

@@ -1,5 +1,6 @@
 import { meta } from "../assets/images";
 import {
+    windows,
     F1,
     BLENDERWHITE,
     MUSIC,
@@ -33,7 +34,9 @@ import {
     summiz,
     tailwindcss,
     threads,
-    typescript
+    typescript,
+    ana,
+    goiko
 } from "../assets/icons";
 
 export const skills = [
@@ -234,6 +237,28 @@ export const socialLinks = [
 ];
 
 export const projects = [
+    
+    {
+        iconUrl: windows,
+        theme: 'btn-back-green',
+        name: 'WINDOWS 95 SHOP',
+        description: 'Built a complete clone of Windows 95.',
+        link: 'https://github.com/agchdev/windows95_2.0.git',
+    },
+    {
+        iconUrl: ana,
+        theme: 'btn-back-black',
+        name: 'ANA PORTFOLIO',
+        description: '3D portfolio made with ThreeJS, for a profesional designer!',
+        link: 'https://kaleidoscopic-tiramisu-a9da7d.netlify.app/'
+    },
+    {
+        iconUrl: goiko,
+        theme: 'btn-back-red',
+        name: 'GOIKO WEB',
+        description: 'A free replication of GOIKO for beginners to improve her skills!',
+        link: 'https://agchdev.github.io/Goiko.github.io/'
+    },
     {
         iconUrl: TWITCH,
         theme: 'btn-back-pink',
@@ -256,13 +281,6 @@ export const projects = [
         link: 'https://www.instagram.com/agch.obj/',
     },
     {
-        iconUrl: snapgram,
-        theme: 'btn-back-orange',
-        name: 'Full Stack Instagram Clone',
-        description: 'Built a complete clone of Instagram, allowing users to share photos and connect with friends in a familiar social media environment.',
-        link: 'https://github.com/adrianhajdin/social_media_app',
-    },
-    {
         iconUrl: BLENDERWHITE,
         theme: 'btn-back-red',
         name: '3D CHARACTERS',
@@ -276,4 +294,5 @@ export const projects = [
         description: 'App that leverages AI to automatically generate concise & informative summaries from lengthy text content, or blogs.',
         link: 'https://www.mundialf1online.com/',
     }
+    
 ];
