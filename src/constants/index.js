@@ -239,13 +239,13 @@ export const socialLinks = [
 
 export const projects = [
     
-    /*{
+    {
         iconUrl: windows,
         theme: 'btn-back-green',
-        name: 'WINDOWS 95 SHOP',
+        name: 'PRUEBAS',
         description: 'Built a complete clone of Windows 95.',
-        link: 'https://github.com/agchdev/windows95_2.0.git',
-    },*/
+        link: 'https://iona-pruebas.vercel.app/',
+    },
     {
         iconUrl: ana,
         theme: 'btn-back-black',
