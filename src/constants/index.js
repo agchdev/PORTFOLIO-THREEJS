@@ -239,13 +239,13 @@ export const socialLinks = [
 
 export const projects = [
     
-    {
+    /*{
         iconUrl: windows,
         theme: 'btn-back-green',
         name: 'WINDOWS 95 SHOP',
         description: 'Built a complete clone of Windows 95.',
         link: 'https://github.com/agchdev/windows95_2.0.git',
-    },
+    },*/
     {
         iconUrl: ana,
         theme: 'btn-back-black',
@@ -272,29 +272,29 @@ export const projects = [
         theme: 'btn-back-blue',
         name: 'FIVE WEB',
         description: 'Designed and built a mobile app for finding and comparing cars on the market, streamlining the car-buying process.',
-        link: 'https://www.instagram.com/agch.obj/',
+        link: 'https://www.fivemediaclan.com/',
     },
-    {
+    /*{
         iconUrl: TWITCH,
         theme: 'btn-back-pink',
         name: 'TWICTH WORK´S',
         description: 'Developed a web application that tracks and notifies users of price changes for products on Amazon, helping users find the best deals.',
         link: 'https://www.instagram.com/agch.obj/',
-    },
-    {
+    },*/
+    /*{
         iconUrl: MUSIC,
         theme: 'btn-back-green',
         name: 'MUSIC VIDEOCLIPS',
         description: 'Created a full-stack replica of the popular discussion platform "Threads," enabling users to post and engage in threaded conversations.',
         link: 'https://www.instagram.com/agch.obj/',
-    },
-    {
+    },*/
+    /*{
         iconUrl: BLENDERWHITE,
         theme: 'btn-back-red',
         name: '3D CHARACTERS',
         description: 'Developed a web application for real estate listings, facilitating property searches and connecting buyers with sellers.',
         link: 'https://github.com/adrianhajdin/projects_realestate',
-    },
+    },*/
     {
         iconUrl: F1,
         theme: 'btn-back-yellow',
